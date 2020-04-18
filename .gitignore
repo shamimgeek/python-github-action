@@ -1,2 +1,7 @@
 myvenv/
 __pycache__/
+
+.vscode/
+
+# Local History for Visual Studio Code
+.history/
